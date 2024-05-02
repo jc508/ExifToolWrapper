@@ -13,4 +13,4 @@ A CodeBit is a way to share common code that's lighter weight than [NuGet](http:
 In this case, the CodeBit is the ExifToolWrapper.cs file. It is intended to be reused in other applications.
 
 ## About the Project
-This project includes the ExifToolWrapper.cs CodeBit and test code to make sure the class functions correctly. It was created in Microsoft Visual Studio 2017 and uses .NET Framework 4.0.
+This project includes the ExifToolWrapper.cs CodeBit and test code to make sure the class functions correctly. It was created in Microsoft Visual Studio 2022 and uses .NET 8.
